@@ -111,7 +111,7 @@ button#stop{
    margin-bottom:20px;
    margin-top:0px;
    height:10px;
-   background:url(../images/progress_bg1.png)no-repeat;float:left;
+   background:url(../images/progress_bg.png)no-repeat;float:left;
 }
 
 #progress{
